@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* .container{
+    color: blue;
+} */
+.benefit{
+    margin-top: 8%;
+}
+.benefit:hover{
+    color: blue;
+}
+.intro{
+    width: 89%;
+    font-size: smaller;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.col{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    padding-top: 130px;
+}
+.widerRecharge{
+    width: 30%;
+    font-size: small;
+}
+/* .widerRecharge:hover{
+    color: blue;
+} */
+.flexibleRecharge{
+    width: 30%;
+    font-size: small;
+}
+/* .flexibleRecharge,h1:hover{
+    color: blue;
+} */
+hr{
+    width: 100px;
+}
